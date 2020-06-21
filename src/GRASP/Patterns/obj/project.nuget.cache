@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6+8n5FYVwx6yukcn9yLCdAStLkogZymRzofU8YlOudR/h02b9cTsj2Q6QwREew9Npa7MfxVjQVzSvOoX6RTIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao_\\source\\repos\\InformationExpert\\Patterns\\Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joao_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

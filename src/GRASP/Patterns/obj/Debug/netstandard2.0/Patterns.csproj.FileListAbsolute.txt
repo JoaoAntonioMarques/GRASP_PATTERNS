@@ -1,0 +1,8 @@
+C:\Users\joao_\source\repos\InformationExpert\Patterns\bin\Debug\netstandard2.0\Patterns.deps.json
+C:\Users\joao_\source\repos\InformationExpert\Patterns\bin\Debug\netstandard2.0\Patterns.dll
+C:\Users\joao_\source\repos\InformationExpert\Patterns\bin\Debug\netstandard2.0\Patterns.pdb
+C:\Users\joao_\source\repos\InformationExpert\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfoInputs.cache
+C:\Users\joao_\source\repos\InformationExpert\Patterns\obj\Debug\netstandard2.0\Patterns.AssemblyInfo.cs
+C:\Users\joao_\source\repos\InformationExpert\Patterns\obj\Debug\netstandard2.0\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\joao_\source\repos\InformationExpert\Patterns\obj\Debug\netstandard2.0\Patterns.dll
+C:\Users\joao_\source\repos\InformationExpert\Patterns\obj\Debug\netstandard2.0\Patterns.pdb
